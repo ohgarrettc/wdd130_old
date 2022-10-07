@@ -1,24 +1,28 @@
 Body {
-	text-align: center;
+	/* text-align: center; commented out week4 */
 }
 nav {
 	background-color: steelblue;
 	padding: 10px;
 }
 a {
+	font-size: 1.5em; /* added week4 */
 	color: white;
 	margin: 40px;
 }
 h1{
+	text-align: center; /* added week4 */
 	color: steelblue;
 }
 img {
-	/* width: 800px; commented out this setting*/
-	width: 80%;
+	/* width: 800px; commented out week4 */
+	width: 80%; /* added week4 */
+	display: block;
+	margin: 0 auto;
 	border: 4px solid steelblue;
 }
 p {
-	width: 80%; /* added week 4 */
+	width: 80%; /* added week4 */
 	padding: 10px;
 }
 footer {
@@ -32,4 +36,15 @@ footer {
 #active {
 	background-color: white;
 	color: steelblue;
+}
+/* * {
+	border: 2px solid blue;
+} commented out week4 */
+nav, footer {
+	text-align: center; /* added week4 */
+}
+main p {
+	width: 80%; /* added week4 */
+	margin: 50px auto;
+	text-align: center;
 }
