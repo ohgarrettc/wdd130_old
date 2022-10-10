@@ -1,9 +1,11 @@
 Body {
 	/* text-align: center; commented out week4 */
 }
-nav {
+nav, footer {
 	background-color: steelblue;
+	color: white;
 	padding: 10px;
+	text-align: center;
 }
 a {
 	font-size: 1.5em; /* added week4 */
@@ -25,10 +27,6 @@ p {
 	width: 80%; /* added week4 */
 	padding: 10px;
 }
-footer {
-	background-color: steelblue;
-	color: white;
-}
 .main-para {
 	font-size: 1.5em;
 	line-height: 1.5em;
@@ -40,9 +38,6 @@ footer {
 /* * {
 	border: 2px solid blue;
 } commented out week4 */
-nav, footer {
-	text-align: center; /* added week4 */
-}
 main p {
 	width: 80%; /* added week4 */
 	margin: 50px auto;
