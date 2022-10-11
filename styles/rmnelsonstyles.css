@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: pink;
+}
+img {
+	width: 25%;
+	display: block;
+	margin: 0 auto;
+}
+main h1, p1 {
+    color: white;
+}
+h2 p {
+    color: white;
+}
+#mylist {
+    color: black;
+}
+ol {
+    display: inline-block;
+    text-align: left;
+}
+h1:hover{
+    color: black;
+}
