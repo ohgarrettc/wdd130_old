@@ -1,9 +1,4 @@
-#content{
-    max-width: 1600px;
-    display: block;
-    margin: 0 auto;
-    background-color:black;
-}
+
 nav a{
     text-align: center;
 }
@@ -15,4 +10,9 @@ nav a{
 }
 main section{
     text-align: center;
+}
+#content{
+    max-width: 1600px;
+    margin: 0 auto;
+    background-color:black;
 }
