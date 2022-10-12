@@ -1,7 +1,6 @@
 #content{
     max-width: 1600px;
     margin: 0 auto;
-    background-color:black;
 }
 nav a{
     text-align: center;
@@ -17,4 +16,28 @@ main section{
 }
 #background {
     height: 725px;
+}
+body {
+    background-color: #1f2421;
+}
+header {
+    background-color: #49a078;
+}
+nav a:hover{
+    background-color: white;
+}
+.book, .join {
+    background-color: #dce1de;
+}
+.book:hover, .join:hover{
+    background-color: white;
+}
+#background{
+    background-color: #9cc5a1;
+}
+.msg{
+    background-color: #9cc5a1;
+}
+footer{
+    background-color: #49a078;
 }
