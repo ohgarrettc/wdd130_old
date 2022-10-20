@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=IBM+Plex+Sans+Arabic&display=swap');
+
 #content{
     max-width: 1600px;
     margin: 0 auto;
@@ -58,7 +60,7 @@ h4{
 }
 .msg h2{
     color: white;
-    font-family: "Carter One", arial, sans-serif;
+    font-family: "Carter One", arial, sans-serif;;
 }
 .msg p{
     color: white;
