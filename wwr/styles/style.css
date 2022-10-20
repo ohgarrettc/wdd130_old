@@ -38,6 +38,7 @@ nav a:hover{
     background-color: #dce1de;
     color: #1f2421;
     text-decoration: none;
+    font-family: "Carter One", arial, sans-serif;
     font-size: 18px;
 }
 .book:hover, .join:hover{
