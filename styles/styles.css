@@ -1,5 +1,6 @@
 Body {
 	/* text-align: center; commented out week4 */
+	margin: 0;
 }
 nav, footer {
 	background-color: steelblue;
@@ -11,10 +12,15 @@ a {
 	font-size: 1.5em; /* added week4 */
 	color: white;
 	margin: 40px;
+	padding: 25px;
+}
+nav{
+	padding: 25px;
 }
 h1{
 	text-align: center; /* added week4 */
 	color: steelblue;
+	margin: 50px;
 }
 img {
 	/* width: 800px; commented out week4 */
@@ -46,6 +52,7 @@ main p {
 footer p {
 	font-size: 20px;
 	margin: 20px auto;
+	padding: 25px;
 }
 a:hover {
 	background-color: white;

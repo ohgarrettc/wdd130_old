@@ -21,6 +21,7 @@ main section{
 }
 body {
     background-color: #dce1de;
+    font-family: IBM Plex Sans Arabic, Helvetica, sans-serif;
 }
 header {
     background-color: #49a078;
@@ -50,12 +51,14 @@ footer{
 }
 .home-title{
     color: black;
+    font-family: "Carter One", arial, sans-serif;
 }
 h4{
     color: black;
 }
 .msg h2{
     color: white;
+    font-family: IBM Plex Sans Arabic, Helvetica, sans-serif;
 }
 .msg p{
     color: white;
