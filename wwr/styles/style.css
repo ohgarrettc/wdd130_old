@@ -45,6 +45,7 @@ nav a:hover{
     font-size: 18px;
     padding: 15px 30px;
     margin-top: 50px;
+    border-radius: 5px;
 }
 .book:hover, .join:hover{
     background-color: white;
@@ -115,4 +116,10 @@ footer .social img{
 }
 .rivers-card, .camping-card, .rapids-card {
     margin: 200px 0;
+}
+.card-img{
+    border: 10px solid #49a078;
+}
+main section img{
+    box-sizing: border-box;
 }
