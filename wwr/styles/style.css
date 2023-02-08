@@ -20,8 +20,9 @@ nav a{
 main section{
     text-align: center;
 }
-#background {
+#background{
     height: 725px;
+    background-color: #9cc5a1;
 }
 body {
     background-color: #dce1de;
@@ -50,9 +51,6 @@ nav a:hover{
 .book:hover, .join:hover{
     background-color: white;
     color: #1f2421;
-}
-#background{
-    background-color: #9cc5a1;
 }
 .msg{
     background-color: #9cc5a1;

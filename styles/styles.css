@@ -3,10 +3,10 @@ Body {
 	margin: 0;
 }
 nav, footer {
-	background-color: steelblue;
-	color: white;
-	padding: 10px;
-	text-align: center;
+	background-color: steelblue; /* added week4 */
+	color: white; /* added week4 */
+	padding: 10px; /* added week4 */
+	text-align: center; /*added week4*/
 }
 a {
 	font-size: 1.5em; /* added week4 */
@@ -16,7 +16,7 @@ a {
 }
 nav{
 	padding: 25px;
-}
+} 
 h1{
 	text-align: center; /* added week4 */
 	color: steelblue;
@@ -25,8 +25,8 @@ h1{
 img {
 	/* width: 800px; commented out week4 */
 	width: 80%; /* added week4 */
-	display: block;
-	margin: 0 auto;
+	display: block; /* added week4 */
+	margin: 0 auto; /* added week4 */
 	border: 4px solid steelblue;
 }
 p {
@@ -46,15 +46,15 @@ p {
 } commented out week4 */
 main p {
 	width: 80%; /* added week4 */
-	margin: 50px auto;
-	text-align: center;
+	margin: 50px auto; /* added week4 */
+	text-align: center; /* added week4 */
 }
 footer p {
-	font-size: 20px;
-	margin: 20px auto;
+	font-size: 20px; /* added week4 */
+	margin: 20px auto; /* added week4 */
 	padding: 25px;
 }
 a:hover {
-	background-color: white;
-	color: steelblue;
+	background-color: white; /* added week4 */
+	color: steelblue; /* added week4 */
 }
